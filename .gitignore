@@ -2,6 +2,9 @@
 .svn/
 .DS_Store
 
+# Flutter Version Manager: FVM https://fvm.app
+.fvm/flutter_sdk
+
 # Xcode
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
