@@ -1,7 +1,9 @@
 # SVN
 .svn/
+.dart_tool/
 .DS_Store
-
+.packages
+.pub
 # Flutter Version Manager: FVM https://fvm.app
 .fvm/flutter_sdk
 
