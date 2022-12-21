@@ -16,6 +16,7 @@ build/
 DerivedData/
 Build/
 Index/
+**/dgph
 
 ## Various settings
 *.pbxuser
