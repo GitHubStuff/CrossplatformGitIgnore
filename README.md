@@ -7,6 +7,8 @@
 Create a repo
 Copy this to .gitignore
 
+2025-02-21 - Cleaned up and added for web servicees and IDEs as well and languages
+
 2024-08-18 - Review
 
 2024-04-14 - Review
